@@ -3,6 +3,7 @@
 
 ## About me
 I am a Systems Engineer with +9 years of web programming experience. I enjoy creating robust, scalable and aesthetic web solutions with technologies like **Typescript, Node.js and AngularJS**. I also have knowledge in prompt engineering and agile project management.
+Do you want to know my work? Visit my portfolio: [https://jorgeluisv.github.io/portafolio](https://jorgeluisv.github.io/portafolio).
 
 ## Tech Stack
 
