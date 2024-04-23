@@ -7,6 +7,7 @@ I am a Systems Engineer with +9 years of web programming experience. I enjoy cre
 ## Tech Stack
 
 **Frontend:**
+
 ![AngujarJS](https://img.shields.io/badge/AngujarJS%20-%23f5f5f5.svg?style=for-the-badge&logo=angular&logoColor=dd1b16) ![React](https://img.shields.io/badge/React%20-%23f5f5f5.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f5f5f5.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23f5f5f5.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ![Jquery](https://img.shields.io/badge/Jquery%20-%23f5f5f5.svg?style=for-the-badge&logo=jquery&logoColor=0769AD) ![HTML5](https://img.shields.io/badge/HMLT5%20-%23f5f5f5.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3%20-%23f5f5f5.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Backend**:
