@@ -6,7 +6,11 @@ I am a Systems Engineer with +9 years of web programming experience. I enjoy cre
 
 ## Tech Stack
 
+<<<<<<< HEAD
 **Frontend**:
+=======
+**Frontend:**
+>>>>>>> b88a89d5d6894f716f4037b6577214d3f72c0439
 
 ![AngujarJS](https://img.shields.io/badge/AngujarJS%20-%23f5f5f5.svg?style=for-the-badge&logo=angular&logoColor=dd1b16) ![React](https://img.shields.io/badge/React%20-%23f5f5f5.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f5f5f5.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23f5f5f5.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ![Jquery](https://img.shields.io/badge/Jquery%20-%23f5f5f5.svg?style=for-the-badge&logo=jquery&logoColor=0769AD) ![HTML5](https://img.shields.io/badge/HMLT5%20-%23f5f5f5.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3%20-%23f5f5f5.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 
@@ -21,6 +25,9 @@ I am a Systems Engineer with +9 years of web programming experience. I enjoy cre
 **DevOps:**
 
 ![Git](https://img.shields.io/badge/Git%20-%23f5f5f5.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Github](https://img.shields.io/badge/Github%20-%23f5f5f5.svg?style=for-the-badge&logo=github&logoColor=181717) ![Docker](https://img.shields.io/badge/Docker%20-%23f5f5f5.svg?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS%20-%23f5f5f5.svg?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
+<<<<<<< HEAD
 
 ## Contact me
 ![Gmail](https://img.shields.io/badge/Gmail%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff) ![Linkedin](https://img.shields.io/badge/Linkedin%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)
+=======
+>>>>>>> b88a89d5d6894f716f4037b6577214d3f72c0439
