@@ -21,7 +21,7 @@ Do you want to know my work? Visit my portfolio: [https://jorgeluisv.github.io](
 
 **DevOps:**
 
-![Git](https://img.shields.io/badge/Git%20-%23f5f5f5.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Github](https://img.shields.io/badge/Github%20-%23f5f5f5.svg?style=for-the-badge&logo=github&logoColor=181717) ![Docker](https://img.shields.io/badge/Docker%20-%23f5f5f5.svg?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS%20-%23f5f5f5.svg?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
+![Git](https://img.shields.io/badge/Git%20-%23f5f5f5.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Github](https://img.shields.io/badge/Github%20-%23f5f5f5.svg?style=for-the-badge&logo=github&logoColor=181717) ![Docker](https://img.shields.io/badge/Docker%20-%23f5f5f5.svg?style=for-the-badge&logo=docker&logoColor=2496ED) ![Firebase](https://img.shields.io/badge/firebase-f5f5f5?style=for-the-badge&logo=firebase&logoColor=ff9100) ![AWS](https://img.shields.io/badge/AWS%20-%23f5f5f5.svg?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
 
 ## Contact me
 ![Gmail](https://img.shields.io/badge/Gmail%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff) ![Linkedin](https://img.shields.io/badge/Linkedin%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)
