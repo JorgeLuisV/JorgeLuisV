@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jorge Vásquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://github.com/JorgeLuisV/JorgeLuisV/raw/main/assets/banner-github1.png">
+<h1 align="center">Hi, I'm Jorge Vásquez</h1>
+<img src="https://github.com/JorgeLuisV/JorgeLuisV/raw/main/assets/banner-github2.png">
 
 ## About me
 I am a Systems Engineer with +9 years of web programming experience. I enjoy creating robust, scalable and aesthetic web solutions with technologies like **Typescript, Node.js and AngularJS**. I also have knowledge in prompt engineering and agile project management.
