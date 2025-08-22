@@ -2,7 +2,7 @@
   <img src="https://github.com/JorgeLuisV/JorgeLuisV/raw/main/assets/banner-github2.png" width="100%">
 </p>
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 
 I'm a **Backend Developer** with **9 years** in web development and strong expertise in **Node.js, TypeScript, NestJS, and AWS (Serverless Framework)**.
 
