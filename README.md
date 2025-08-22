@@ -4,12 +4,9 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** with **9 years** in web development and strong expertise in  
-**Node.js, TypeScript, NestJS, and AWS (Serverless Framework)**.
+I'm a **Backend Developer** with **9 years** in web development and strong expertise in **Node.js, TypeScript, NestJS, and AWS (Serverless Framework)**.
 
-I specialize in building **scalable APIs, microservices, and ETL systems** that work with the highest efficiency and reliability.
-
-I apply **Clean Code, SOLID principles, and automated testing** to ensure quality and reliability.
+I specialize in building **scalable APIs, microservices, and ETL systems** that work with the highest efficiency and reliability. I apply **Clean Code, SOLID principles, and automated testing** to ensure quality and reliability.
 
 🔹 Passionate about **cloud solutions, system automation, and AI-assisted development**.  
 🔹 Experienced in **technical mentoring** and establishing **best practices** in development teams.
